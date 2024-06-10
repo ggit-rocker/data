@@ -1,2 +1,4 @@
 id,title,subtitle,mainstat,secondarystat,detail__Success,color,icon,noderadius,highlighted,Test value
-Tattersall Maquinarias,maquinarias,client,0.377,0.0678,1,blue,enlace,32.0,false,8
+idroot,root,client,0.377,0.0678,1,blue,amazon,32.0,false,8
+idservice1,service1,service,0.931,0.925,0.512,red,bug,36.1,false,5
+idLeandroNode, Leandro Node, Person, 1,1,1,orange,user,50,false,3
